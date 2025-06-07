@@ -78,5 +78,8 @@ sudo systemctl enable synchronizer-cli-web
 ```
 sudo systemctl start synchronizer-cli-web
 ```
+**Log into your dashboard service:**
+- visit your-ip:3000
+- login using any-username and password you have created before
 
 
