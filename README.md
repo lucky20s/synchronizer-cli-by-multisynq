@@ -14,7 +14,7 @@ sudo apt update -y && sudo apt upgrade -y
 
 **Install NodeJs**
 ```
-apt get-install wget curl -y
+apt install wget curl -y
 ```
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
