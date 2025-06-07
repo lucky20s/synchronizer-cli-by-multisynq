@@ -1,6 +1,6 @@
 # synchronizer-cli-by-multisynq
 
-**Register here <a href="https://startsynqing.com/?ref=f91ab7-4wc069">startsynqing.com</a>
+**Register here <a href="https://startsynqing.com/?ref=f91ab7-4wc069">startsynqing.com</a>**
 
 **Prerequisites**
 - Node.js v10 or higher
